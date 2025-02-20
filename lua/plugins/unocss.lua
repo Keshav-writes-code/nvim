@@ -1,1 +1,1 @@
-return { "fxna00/unocss-language-server", opts = {} }
+return { "xna00/unocss-language-server", opts = {} }
