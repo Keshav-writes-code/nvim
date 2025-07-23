@@ -5,3 +5,5 @@ vim.opt.wrap = true
 vim.opt.winbar = "%=%m %f"
 vim.opt.swapfile = false
 vim.g.lazyvim_python_lsp = "basedpyright"
+
+vim.g.autoformat = true
